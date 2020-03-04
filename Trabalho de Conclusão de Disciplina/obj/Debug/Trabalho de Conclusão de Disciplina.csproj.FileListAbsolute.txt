@@ -1,0 +1,44 @@
+C:\Users\mtphy_000\Documents\Visual Studio 2012\Projects\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\bin\Debug\Trabalho de Conclusão de Disciplina.exe.config
+C:\Users\mtphy_000\Documents\Visual Studio 2012\Projects\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\bin\Debug\Trabalho de Conclusão de Disciplina.exe
+C:\Users\mtphy_000\Documents\Visual Studio 2012\Projects\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\bin\Debug\Trabalho de Conclusão de Disciplina.pdb
+C:\Users\mtphy_000\Documents\Visual Studio 2012\Projects\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.csprojResolveAssemblyReference.cache
+C:\Users\mtphy_000\Documents\Visual Studio 2012\Projects\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho_de_Conclusão_de_Disciplina.Form1.resources
+C:\Users\mtphy_000\Documents\Visual Studio 2012\Projects\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho_de_Conclusão_de_Disciplina.Properties.Resources.resources
+C:\Users\mtphy_000\Documents\Visual Studio 2012\Projects\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.csproj.GenerateResource.Cache
+C:\Users\mtphy_000\Documents\Visual Studio 2012\Projects\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.exe
+C:\Users\mtphy_000\Documents\Visual Studio 2012\Projects\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.pdb
+C:\Users\mtphy_000\Documents\Visual Studio 2012\Projects\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho_de_Conclusão_de_Disciplina.Jogo.resources
+C:\Users\GH\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\bin\Debug\Trabalho de Conclusão de Disciplina.exe.config
+C:\Users\GH\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.exe
+C:\Users\GH\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.pdb
+C:\Users\GH\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.csprojResolveAssemblyReference.cache
+C:\Users\GH\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho_de_Conclusão_de_Disciplina.Form1.resources
+C:\Users\GH\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho_de_Conclusão_de_Disciplina.Jogo.resources
+C:\Users\GH\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho_de_Conclusão_de_Disciplina.Properties.Resources.resources
+C:\Users\GH\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.csproj.GenerateResource.Cache
+C:\Users\GH\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\bin\Debug\Trabalho de Conclusão de Disciplina.exe
+C:\Users\GH\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\bin\Debug\Trabalho de Conclusão de Disciplina.pdb
+C:\Users\mtphy_000\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\bin\Debug\Trabalho de Conclusão de Disciplina.exe.config
+C:\Users\mtphy_000\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.exe
+C:\Users\mtphy_000\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.pdb
+C:\Users\mtphy_000\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.csprojResolveAssemblyReference.cache
+C:\Users\GH\Desktop\Nova pasta\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\bin\Debug\Trabalho de Conclusão de Disciplina.exe.config
+C:\Users\GH\Desktop\Nova pasta\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.exe
+C:\Users\GH\Desktop\Nova pasta\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.pdb
+C:\Users\GH\Desktop\Nova pasta\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\bin\Debug\Trabalho de Conclusão de Disciplina.exe
+C:\Users\GH\Desktop\Nova pasta\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\bin\Debug\Trabalho de Conclusão de Disciplina.pdb
+C:\Users\GH\Desktop\Nova pasta\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.csprojResolveAssemblyReference.cache
+C:\Users\GH\Desktop\Nova pasta\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho_de_Conclusão_de_Disciplina.Form1.resources
+C:\Users\GH\Desktop\Nova pasta\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho_de_Conclusão_de_Disciplina.Jogo.resources
+C:\Users\GH\Desktop\Nova pasta\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho_de_Conclusão_de_Disciplina.Properties.Resources.resources
+C:\Users\GH\Desktop\Nova pasta\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.csproj.GenerateResource.Cache
+C:\Users\mtphy_000\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\bin\Debug\Trabalho de Conclusão de Disciplina.exe
+C:\Users\mtphy_000\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\bin\Debug\Trabalho de Conclusão de Disciplina.pdb
+C:\Users\mtphy_000\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho_de_Conclusão_de_Disciplina.Form1.resources
+C:\Users\mtphy_000\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho_de_Conclusão_de_Disciplina.Jogo.resources
+C:\Users\mtphy_000\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho_de_Conclusão_de_Disciplina.Properties.Resources.resources
+C:\Users\mtphy_000\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.csproj.GenerateResource.Cache
+C:\Users\GH\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho_de_Conclusão_de_Disciplina.Enredo_Jogo.resources
+C:\Users\GustavoHenriquePinhe\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\bin\Debug\Trabalho de Conclusão de Disciplina.exe.config
+C:\Users\GustavoHenriquePinhe\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.exe
+C:\Users\GustavoHenriquePinhe\Desktop\Trabalho de Conclusão de Disciplina\Trabalho de Conclusão de Disciplina\obj\Debug\Trabalho de Conclusão de Disciplina.pdb
